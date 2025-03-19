@@ -1,6 +1,6 @@
 ## Hi there I am Iman 👋
 
-👩🏻‍🎓 First year data engineering student from Kuala Terengganu , Terengganu .
+👩🏻‍🎓 Third year data engineering student from Kuala Terengganu, Terengganu .
 
 👩🏻‍💻 Passionate about information system and tech things.
 
@@ -10,7 +10,7 @@ Current Projects
 ⌨️ Learning C++
 
 Skills
-💻 C++ & C
+💻 C++ , C , Java
 
 Education
 🎓 BSc of Computer Science ( Data Engineering ) , University of Technology Malaysia, 2022-present
