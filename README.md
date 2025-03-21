@@ -42,7 +42,7 @@
 ### 📫 Connect with Me
 
 📧 Email: [muhammadimanfirdaus@graduate.utm.my](mailto:muhammadimanfirdaus@graduate.utm.my)  
-💼 LinkedIn: [Muhammad Iman Firdaus](www.linkedin.com/in/imanfirdaus-a22ec0216)  
+💼 LinkedIn: [Muhammad Iman Firdaus](https://www.linkedin.com/in/imanfirdaus-a22ec0216)  
 
 
 
